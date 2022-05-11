@@ -6,3 +6,7 @@
 * CSS
 * Bootstrap
 * Responsividade
+
+<p align="center">
+    <img width="470" heigth="300" src="/Clone Do Instagram">
+</p>
