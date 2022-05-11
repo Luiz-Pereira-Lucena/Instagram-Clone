@@ -8,5 +8,5 @@
 * Responsividade
 
 <p align="center">
-    <img width="470" heigth="300" src="/Clone Do Instagram">
+    <img width="470" heigth="300" src="/Clone Do Instagram.gif">
 </p>
